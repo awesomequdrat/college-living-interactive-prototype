@@ -36,19 +36,25 @@ Key interactions included:
 
 ## Prototype Preview
 
-### Apartment details flow
+The screenshots below are **original Balsamiq screens from the project prototype**, rather than recreated diagrams.
 
-<img src="assets/apartment-details-flow.svg" alt="Apartment details prototype flow" width="900">
+### Apartment details
 
-### Room and walkthrough navigation
+<img src="assets/apartment-details-original.jpg" alt="Original College Living apartment details Balsamiq prototype" width="360">
+
+This screen shows the apartment-details experience, including the image gallery, apartment information, and the entry point into the 3D walkthrough.
+
+### 3D walkthrough
+
+<img src="assets/3d-walkthrough-original.jpg" alt="Original College Living 3D walkthrough Balsamiq prototype" width="360">
+
+The walkthrough concept gives users directional controls for moving through the apartment and an exit action to return to the apartment-details flow.
+
+### Interaction-flow overview
 
 <img src="assets/walkthrough-navigation-flow.svg" alt="Apartment room and walkthrough navigation flow" width="900">
 
-### 3D walkthrough concept
-
-<img src="assets/3d-walkthrough-screen.svg" alt="3D apartment walkthrough concept" width="650">
-
-> The diagrams above summarize the interaction flow represented in the original Balsamiq prototype.
+> The original prototype archive contains additional screens for bedroom exploration, apartment maps, maintenance reporting, apartment search, and the community feed. See `prototype/SCREEN_INDEX.md` for the full screen list.
 
 ## Design Process
 
@@ -106,7 +112,8 @@ The prototype explored several HCI and interaction-design concepts, including:
 | --- | --- |
 | `README.md` | Portfolio-oriented overview of the project and my documented contribution |
 | `PROJECT_INFO.md` | Course, project, contribution, and team information |
-| `assets/` | GitHub-friendly visual summaries of the prototype flow |
+| `assets/` | Original prototype screenshots and supporting visual summaries |
+| `prototype/SCREEN_INDEX.md` | Index of the 52 exported Balsamiq prototype screens |
 
 ## Team
 
