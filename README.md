@@ -56,6 +56,8 @@ The walkthrough concept represents the mobile room-view experience, interactive 
 
 > The original prototype archive contains additional screens for bedroom exploration, apartment maps, maintenance reporting, apartment search, and the community feed. See `prototype/SCREEN_INDEX.md` for the full screen list.
 
+You can also download the complete exported prototype archive here: [College_Living_Wireframes.zip](prototype/College_Living_Wireframes.zip).
+
 ## Design Process
 
 The project followed a rapid-prototyping workflow:
@@ -113,6 +115,7 @@ The prototype explored several HCI and interaction-design concepts, including:
 | `README.md` | Portfolio-oriented overview of the project and my documented contribution |
 | `PROJECT_INFO.md` | Course, project, contribution, and team information |
 | `assets/` | GitHub-friendly prototype flow visuals |
+| `prototype/College_Living_Wireframes.zip` | Complete exported Balsamiq prototype archive |
 | `prototype/SCREEN_INDEX.md` | Index of the 52 exported Balsamiq prototype screens |
 
 ## Team
