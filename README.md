@@ -36,19 +36,19 @@ Key interactions included:
 
 ## Prototype Preview
 
-The screenshots below are **original Balsamiq screens from the project prototype**, rather than recreated diagrams.
+The preview images below use GitHub-friendly SVGs so they render consistently without broken-image or question-mark errors. They summarize the flows from the original Balsamiq prototype archive.
 
-### Apartment details
+### Apartment details flow
 
-<img src="assets/apartment-details-original.jpg" alt="Original College Living apartment details Balsamiq prototype" width="360">
+<img src="assets/apartment-details-flow.svg" alt="College Living apartment details flow" width="900">
 
-This screen shows the apartment-details experience, including the image gallery, apartment information, and the entry point into the 3D walkthrough.
+This flow shows the path from apartment listings to apartment details, the photo gallery, and the entry point into the 3D walkthrough.
 
-### 3D walkthrough
+### 3D walkthrough concept
 
-<img src="assets/3d-walkthrough-original.jpg" alt="Original College Living 3D walkthrough Balsamiq prototype" width="360">
+<img src="assets/3d-walkthrough-screen.svg" alt="College Living 3D walkthrough concept" width="700">
 
-The walkthrough concept gives users directional controls for moving through the apartment and an exit action to return to the apartment-details flow.
+The walkthrough concept represents the mobile room-view experience, interactive hotspots, and the exit action back to apartment details.
 
 ### Interaction-flow overview
 
@@ -112,7 +112,7 @@ The prototype explored several HCI and interaction-design concepts, including:
 | --- | --- |
 | `README.md` | Portfolio-oriented overview of the project and my documented contribution |
 | `PROJECT_INFO.md` | Course, project, contribution, and team information |
-| `assets/` | Original prototype screenshots and supporting visual summaries |
+| `assets/` | GitHub-friendly prototype flow visuals |
 | `prototype/SCREEN_INDEX.md` | Index of the 52 exported Balsamiq prototype screens |
 
 ## Team
