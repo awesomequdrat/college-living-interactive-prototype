@@ -1,1 +1,0 @@
-Selected original Balsamiq prototype screenshots from the College_Living_Wireframes.zip archive are used in the README for a more authentic portfolio preview.
